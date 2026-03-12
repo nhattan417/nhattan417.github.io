@@ -5,12 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently a teaching assistant (TA) for STAT101 - Introduction to Statistics at UIC. My office hour: Tuesday 11am - 1pm at the Math and Science Learning Center (MSLC) in the Science & Engineering South (SES). Or you can make an appointment with by directly via my email.
+I am currently a teaching assistant (TA) for STAT101 - Introduction to Statistics at UIC. My office hour: Thursday 10:40am - 12:40pm at the Math and Science Learning Center (MSLC) in the Science & Engineering South (SES). Or you can make an appointment with by directly via my email.
 
 ## My past courses:
 
+* 2026: TA at UIC:
+    * STAT101: Introduction to Statistics.
 * 2025: TA at UIC:
-    * MATH165: Calculus for Business
+    * MATH165: Calculus for Business.
 * 2025: TA at FUV:
     * CS103: Programming for Data Science and Visualization.
     * CS311: Advanced Deep Learning.
